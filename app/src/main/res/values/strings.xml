@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProyectoSpinners</string>
+    <string name="title">MENU PRINCIPAL</string>
+    <string name="nom">Bienvenido</string>
+    <string name="screenad">Pasar a agregar</string>
+    <string name="mostrar">Pasar a ver Registros</string>
+    <string name="title2">Agregar Colores</string>
+    <string name="title3">Ingresa el nombre del color</string>
+    <string name="add">Agregar Color</string>
+    <string name="mostrarc">Mostrar Colores</string>
+    <string name="menu">Ir al Menu principal</string>
+    <string name="nomb">Proyecto Agregar Color</string>
+    <string name="acerca">Acerca de</string>
+
+
+    <string name="des">Desarrollador: Francisco Javier Jiménez Jaimes</string>
+    <string name="img">img</string>
+    <string name="version">Versión:                                                                           1.0</string>
+    <string name="grad">Grupo: 7T11</string>
+    <string name="asig">Asignatura: Desarrollo de aplicaciones para dispositivos móviles</string>
+    <string name="doc">Docente: Victor Hugo de la o Martínez</string>
+
+
+</resources>
